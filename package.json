@@ -1,0 +1,39 @@
+{
+  "name": "dot-include",
+  "version": "0.1.2",
+  "description": "dot-include is a doT stub for Express 3.x with support for caching and partials.",
+  "main": "dot-include.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lianyzhou/dot-include.git"
+  },
+  "dependencies": {
+    "dot": ">= 1.0.0"
+  },
+  "keywords": [
+    "template",
+    "fast",
+    "simple",
+    "templating",
+    "express",
+    "doT",
+    "caching",
+    "partials",
+    "engine"
+  ],
+  "author": {
+    "name": "lianyzhou",
+    "email": "zhoulianyi@antrol.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/lianyzhou/dot-include.git",
+  "maintainers": [
+    {
+      "name": "lianyzhou",
+      "email": "zhoulianyi@antrol.com"
+    }
+  ]
+}
